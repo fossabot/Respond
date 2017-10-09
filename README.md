@@ -1,4 +1,6 @@
 # Respond.js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FRespond.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FRespond?ref=badge_shield)
+
 ### A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 
  - Copyright 2011: Scott Jehl, scottjehl.com
@@ -89,3 +91,6 @@ Alternatives to this script
 This isn't the only CSS3 Media Query polyfill script out there; but it damn well may be the fastest.
 
 If you're looking for more robust CSS3 Media Query support, you might check out http://code.google.com/p/css3-mediaqueries-js/. In testing, I've found that script to be noticeably slow when rendering complex responsive designs (both in filesize and performance), but it really does support a lot more media query features than this script. Big hat tip to the authors! :)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FRespond.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FRespond?ref=badge_large)
